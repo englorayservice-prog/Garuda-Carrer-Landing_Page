@@ -4,19 +4,9 @@
   "description": "India's trusted job search platform. Search and apply for full-time, part-time, remote & government jobs. Upload your resume & get hired today.",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "favicon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "favicon.jpeg",
-      "type": "image/jpeg",
-      "sizes": "512x512"
+      "src": "bluelogo.jpg.jpeg",
+      "sizes": "64x64 32x32 24x24 16x16 192x192 512x512",
+      "type": "image/jpeg"
     }
   ],
   "start_url": ".",

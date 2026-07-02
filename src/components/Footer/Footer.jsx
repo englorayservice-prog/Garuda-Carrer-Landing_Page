@@ -84,8 +84,8 @@ const Footer = () => {
               <ul>
                 <li><a href="/about">About Us</a></li>
                 <li><a href="/ccontactnav">Contact</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Terms of Service</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/terms-conditions">Terms of Service</a></li>
               </ul>
             </div>
 
@@ -121,8 +121,8 @@ const Footer = () => {
           <div className="footer-bottom-content">
             <p>© 2026 Garuda Career. All rights reserved.</p>
             <div className="footer-legal-links">
-              <a href="#">Privacy</a>
-              <a href="#">Terms</a>
+              <a href="/privacy-policy">Privacy</a>
+              <a href="/terms-conditions">Terms</a>
               <a href="#">Cookies</a>
             </div>
           </div>
